@@ -1,0 +1,1 @@
+import{r as e,a as s,j as t,S as o}from"./index-0fc7a230.js";import{a as r}from"./PeopleContext-eb7f752d.js";import"./resources-40b856d9.js";function i(){const{loadEventsRef:a}=e.useContext(r);return s("div",{className:"load-events",ref:a,children:["Cargando ",t(o,{tam:"sm"})]})}export{i as default};
