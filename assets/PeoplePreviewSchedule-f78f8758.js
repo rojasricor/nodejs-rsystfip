@@ -1,0 +1,1 @@
+import{a as t,j as r}from"./index-123bf382.js";import o from"./LoadCalendar-a071b820.js";import{P as e}from"./PeopleContext-b8f502dc.js";import{C as i}from"./CalendarRSystfipEvents-24b0a2b2.js";import"./resources-40b856d9.js";function m(){return t(e,{children:[r(o,{}),r(i,{right:"listMonth,dayGridMonth",initialView:"listMonth"})]})}export{m as default};
